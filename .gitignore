@@ -19,6 +19,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+.snakemake/
 
 # Installer logs
 pip-log.txt
@@ -48,4 +49,3 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
-/env
