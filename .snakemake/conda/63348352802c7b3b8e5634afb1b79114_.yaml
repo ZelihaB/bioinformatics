@@ -1,0 +1,7 @@
+name: bioinformatics
+channels:
+  - bioconda
+  - conda-forge
+  - nanoporetech
+dependencies:
+  - trnascan-se

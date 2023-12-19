@@ -1,0 +1,7 @@
+==> 2023-12-18 17:09:24 <==
+# cmd: /Users/zabc/opt/anaconda3/bin/conda-env create --quiet --file /Users/zabc/Documents/bioinformatics/.snakemake/conda/63348352802c7b3b8e5634afb1b79114_.yaml --prefix /Users/zabc/Documents/bioinformatics/.snakemake/conda/63348352802c7b3b8e5634afb1b79114_
+# conda version: 4.12.0
++bioconda/osx-64::infernal-1.1.4-pl5321h2413b67_4
++bioconda/osx-64::trnascan-se-2.0.12-pl5321h2413b67_0
++conda-forge/osx-64::perl-5.32.1-4_h0dc2134_perl5
+# update specs: ['trnascan-se']
